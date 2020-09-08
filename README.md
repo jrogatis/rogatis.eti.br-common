@@ -1,3 +1,3 @@
-# rogatis.et.br/common
+# rogatis.eti.br/common
 
 just a simple common library dependency.
