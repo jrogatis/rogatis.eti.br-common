@@ -1,5 +1,5 @@
 {
-  "name": "@rogatis-eti-br/common",
+  "name": "@rogatis.eti.br/common",
   "version": "1.0.0",
   "description": "common",
   "main": "./build/index.js",
