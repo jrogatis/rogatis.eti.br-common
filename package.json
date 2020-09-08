@@ -2,10 +2,10 @@
   "name": "@rogatis.eti.br/common",
   "version": "1.0.6",
   "description": "common",
-  "main": "./build/index.js",
-  "types": "./build/index.d.ts",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "files": [
-    "./build/**/*"
+    "build/**/*"
   ],
   "scripts": {
     "clean": "del ./build/*",
